@@ -1,0 +1,7 @@
+title: Skills GitHub Pages Site
+author: GitHub Skills
+description: Learning GitHub Pages with Jekyll
+# Use the default minima theme
+# More configuration options can be added as needed
+# For details see https://jekyllrb.com/docs/configuration/
+theme: minima
